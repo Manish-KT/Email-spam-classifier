@@ -1,6 +1,7 @@
 # Email Spam Classifier
 
-![Email Spam Classifier](spam_classifier_demo.png)
+![Email Spam Classifier](https://i0.wp.com/pctechmag.com/wp-content/uploads/2018/05/spam-email.jpg?resize=780%2C470&ssl=1)
+
 
 This is a simple web application built with Streamlit that allows users to input a sentence, and the app predicts whether the sentence is spam or not using a machine learning model trained on email data.
 

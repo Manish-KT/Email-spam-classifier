@@ -32,15 +32,9 @@ Dataset link: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 ## Dependencies
 
 - Streamlit
-- Pandas
 - Scikit-learn
-- Joblib
 
 ## Acknowledgments
 
 This project was inspired by the need for effective spam detection mechanisms in email systems. Special thanks to the Streamlit team for creating an amazing tool for building interactive web applications with Python.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 

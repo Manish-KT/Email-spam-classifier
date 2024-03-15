@@ -21,11 +21,13 @@ This is a simple web application built with Streamlit that allows users to input
 
 ## Model Details
 
-The machine learning model used in this app is a Support Vector Machine (SVM) classifier trained on a dataset of labeled email data. The model was trained using the TF-IDF (Term Frequency-Inverse Document Frequency) vectorization technique to convert text data into numerical features.
+The machine learning model used in this app is a MultinomialNB classifier trained on a dataset of labeled email data. The model was trained using the TF-IDF (Term Frequency-Inverse Document Frequency) vectorization technique to convert text data into numerical features.
 
 ## Dataset
 
 The dataset used for training the model is not included in this repository. However, you can use any labeled email dataset to train your own model. Ensure that the dataset contains two columns: 'text' (email content) and 'label' (spam or not spam).
+
+Dataset link: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
 ## Dependencies
 

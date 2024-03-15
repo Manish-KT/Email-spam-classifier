@@ -12,6 +12,7 @@ This is a simple web application built with Streamlit that allows users to input
 3. Run the app by executing the following command:
 4. Open your web browser and go to the provided URL (usually http://localhost:8501) to use the app.
 5. Enter a sentence in the text input box, and the app will predict whether it's spam or not.
+6. My app hosted on streamlit cloud: https://manish-kt-email-spam-classifier-app-5pnhlj.streamlit.app/
 
 ## Features
 
